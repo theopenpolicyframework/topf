@@ -1,7 +1,9 @@
 ![The Open Policy Framework](/images/header.png)
 ================================================
 
-[![License](https://img.shields.io/github/license/The-Open-Policy-Framework/open-policies?style=flat-square)](/LICENSE) ![Followers](https://img.shields.io/github/followers/The-Open-Policy-Framework?style=social) ![Stars](https://img.shields.io/github/stars/The-Open-Policy-Framework/topf?style=social)
+
+
+[![License](https://img.shields.io/github/license/theopenpolicyframework/topf)](/LICENSE) ![Followers](https://img.shields.io/github/followers/theopenpolicyframework?label=Followers&style=social) ![Stars](https://img.shields.io/github/stars/theopenpolicyframework/topf?style=social) ![Watchers](https://img.shields.io/github/watchers/theopenpolicyframework/topf?style=social)
 
 # What is The Open Policy Framework?
 
